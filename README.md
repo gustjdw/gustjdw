@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=165&section=header&text=HyeonSeong&fontSize=80&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=HyeonSeong&fontSize=80&fontAlign=60)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustjdw&show_icons=true&theme=radical&count_private=true)  
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=JongAAAAAAAAA&theme=highcontrast&hide_border=false&fire=red&sideNums=red)<br/>
 
