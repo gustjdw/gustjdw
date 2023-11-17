@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align='center'>
+<div>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=HyeonSeong&fontSize=80&fontAlign=60)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustjdw&show_icons=true&theme=radical&count_private=true)  
